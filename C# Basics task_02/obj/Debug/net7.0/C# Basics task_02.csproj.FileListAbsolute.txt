@@ -1,0 +1,14 @@
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\bin\Debug\net7.0\C# Basics task_02.exe
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\bin\Debug\net7.0\C# Basics task_02.deps.json
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\bin\Debug\net7.0\C# Basics task_02.runtimeconfig.json
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\bin\Debug\net7.0\C# Basics task_02.dll
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\bin\Debug\net7.0\C# Basics task_02.pdb
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\C# Basics task_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\C# Basics task_02.AssemblyInfoInputs.cache
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\C# Basics task_02.AssemblyInfo.cs
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\C# Basics task_02.csproj.CoreCompileInputs.cache
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\C# Basics task_02.dll
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\refint\C# Basics task_02.dll
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\C# Basics task_02.pdb
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\C# Basics task_02.genruntimeconfig.cache
+D:\xxxxxx\Assignments\C# Basics task_02\C# Basics task_02\obj\Debug\net7.0\ref\C# Basics task_02.dll
